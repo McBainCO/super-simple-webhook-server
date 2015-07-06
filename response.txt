@@ -1,0 +1,66 @@
+{
+  "account_id": "55919e5d724ac069008b4567",
+  "webhook_id": "559aaaff48466a321d8b4568",
+  "timestamp": 1436199824,
+  "message_data": {
+    "email_message_id": "<CAKBN2GFghL59zah8wPhUgFymAi3Unaw=kKUF6C7cSsPWV02kfw@mail.gmail.com>",
+    "addresses": {
+      "from": {
+        "email": "graham@context.io",
+        "name": "Graham McBain"
+      },
+      "to": [
+        {
+          "email": "grahammcbain@gmail.com",
+          "name": "Graham McBain"
+        }
+      ]
+    },
+    "references": [
+
+    ],
+    "message_id": "559aab90a92ac3dc0d8b4568",
+    "sources": [
+      {
+        "label": "grahammcbain::gmail"
+      }
+    ],
+    "gmail_message_id": "14e642e024e7f733",
+    "gmail_thread_id": "14e642c5ca10e8f8",
+    "files": [
+
+    ],
+    "person_info": {
+      "graham@context.io": {
+        "thumbnail": "https://secure.gravatar.com/avatar/f8854297ce62fbd998ab78df49694ee5?s=50&d=https%3A%2F%2Fs3.amazonaws.com%2Fcontextio-icons%2Fcontact.png"
+      },
+      "grahammcbain@gmail.com": {
+        "thumbnail": "https://secure.gravatar.com/avatar/a76680cdd17067efe20c21cacf72627f?s=50&d=https%3A%2F%2Fs3.amazonaws.com%2Fcontextio-icons%2Fcontact.png"
+      }
+    },
+    "date": 1436199813,
+    "date_indexed": 1436199824,
+    "date_received": 1436199814,
+    "subject": "testing",
+    "folders": [
+      "INBOX",
+      "\\Inbox"
+    ],
+    "body": [
+      {
+        "type": "text/plain",
+        "charset": "utf-8",
+        "content": "?PLEASE\r\n",
+        "body_section": "1"
+      },
+      {
+        "type": "text/html",
+        "charset": "utf-8",
+        "content": "<div dir=\"ltr\">?PLEASE</div>\r\n",
+        "body_section": "2"
+      }
+    ]
+  },
+  "token": "vWJPg8wbN7sJ03mYaNdLkl5uxkvyrpE7MAQKh7sVLdV35AsbxW",
+  "signature": "0f1815a05e616e1df348c787730ee36e9f14d3d3df8c009652de1fcae4142308"
+}
